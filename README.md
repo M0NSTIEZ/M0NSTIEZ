@@ -2,12 +2,21 @@
 <h1 align="center">Hi 👋, I'm Butch Niño B. Butas</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m0nstiez&label=Profile%20views&color=0e75b6&style=flat" alt="m0nstiez" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=m0nstiez&label=Profile%20views&color=0e75b6&style=flat" alt="m0nstiez" />
+</p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- Streak stats + GIF side by side -->
+  <div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+    <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+    <img src="https://c.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif" height="150" alt="coding gif" />
+  </div>
+
+  <!-- Trophy graph below -->
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
+
 
 
 - 🔭 I’m currently looking for **fullstack projects**
